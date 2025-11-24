@@ -57,17 +57,6 @@ Here is a summary of the technologies and tools I work with:
 
 ---
 
-## 📌 Featured Projects
-
-* **[Project Name 1]**: Brief description of what it is and what technologies you used (e.g., A scalable RESTful API built with **NestJS** and **PostgreSQL** for microservices architecture).
-* **[Project Name 2]**: Mention whether it is an academic or personal project and its key functionality.
-
-### 📚 Academic Projects
-
-> This is where your university project repositories or a link to your project list will go.
-
----
-
 ## 🤝 Collaborators
 
 > Teamwork is essential! Meet my development partners.
