@@ -1,64 +1,90 @@
-# Hi there 👋, I am Carlos
+# 🚀 Hi there! I'm Carlos Alvarado
 
-Hello! I'm Carlos Alvarado, a 22-year-old software engineering student
+I am an enthusiastic **Software Engineering student** (23) with a strong foundation in **Full-Stack Development**, currently specializing in building robust and scalable systems through **Backend development** and database architecture.
 
-## About Me
+---
 
-- I am currently studying at the Technical University of Ambato in the 7th semester of software engineering.
-- I enjoy learning about different software development concepts and technologies.
-- I am currently learning about mobile and web development.
+## 👨‍💻 About Me
 
-## Skills
+* I am currently in the **8th semester of Software Engineering** at the Universidad Técnica de Ambato.
+* I possess skills across the entire stack, but my current focus is on designing and implementing efficient, reliable APIs, services, and complex database structures.
+* I am always learning and exploring **new concepts and technologies** to expand my development stack.
+* My current focus is on **Backend Development (Node.js/NestJS/Java)**, architecture design, and performance optimization.
 
-### 🖍 DESIGN TOOLS
+---
 
-![Adobe Iu](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🛠 Tech Stack & Skills
 
-### DATABASES
+Here is a summary of the technologies and tools I work with:
 
-![](https://img.shields.io/badge/PosstgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### PROGRAMMING LANGUAGES
-
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Programming Languages
+![](https://img.shields.io/badge/SQL-386B94?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### FRAMEWORKS AND LIBRARIES
+### ✨ Frameworks & Libraries
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) |
+| **Frontend/Mobile** | ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) |
+| **Others** | ![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white) |
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 💾 Databases
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
-![](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-![](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## Top Languages
+### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAl21&layout=compact&hide=HTML,CSS)](https://github.com/anuraghazragithub-readme-stats)
+---
 
+## 📊 GitHub Stats
 
-## Graphs
+> Here you can see an overview of my activity and most used languages.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAl21&layout=compact&hide=HTML,CSS&theme=dark)](https://github.com/anuraghazragithub-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosAl21&show_icons=true&theme=dark)
 
 ![Graphs2](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosAl21&theme=github_dark)
 
-## Projects
+---
+
+## 📌 Featured Projects
+
+* **[Project Name 1]**: Brief description of what it is and what technologies you used (e.g., A scalable RESTful API built with **NestJS** and **PostgreSQL** for microservices architecture).
+* **[Project Name 2]**: Mention whether it is an academic or personal project and its key functionality.
 
 ### 📚 Academic Projects
 
+> This is where your university project repositories or a link to your project list will go.
 
+---
 
-## Partners
+## 🤝 Collaborators
 
-| [@badilleins](https://github.com/badilleins)| [@D4rkGh057](https://github.com/D4rkGh057)| [@ArielTonato](https://github.com/ArielTonato)| [@ThomXasG](https://github.com/ThomXasG)|
-| --- | --- | --- | --- |
-| ![badiIcon](https://avatars.githubusercontent.com/u/72108507?s=150) | ![D4rkGh057](https://avatars.githubusercontent.com/u/66801224?s=400&u=1) | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150"> | ![ThomXasG](https://avatars.githubusercontent.com/u/129432152?s=155&v=1) |
+> Teamwork is essential! Meet my development partners.
+
+| Name/Username | GitHub Link | Avatar |
+| :---: | :---: | :---: |
+| **@badilleins** | [@badilleins](https://github.com/badilleins) | ![badiIcon](https://avatars.githubusercontent.com/u/72108507?s=150) |
+| **@D4rkGh057** | [@D4rkGh057](https://github.com/D4rkGh057) | ![D4rkGh057](https://avatars.githubusercontent.com/u/66801224?s=400&u=1) |
+| **@ArielTonato** | [@ArielTonato](https://github.com/ArielTonato) | <img src="https://avatars.githubusercontent.com/u/121694409?s=150&v=1" width="150"> |
+| **@ThomXasG** | [@ThomXasG](https://github.com/ThomXasG) | ![ThomXasG](https://avatars.githubusercontent.com/u/129432152?s=155&v=1) |
+
+---
+
+## 📫 Let's Connect!
+
+* **LinkedIn**: www.linkedin.com/in/carlos-alvarado-859a33365
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8BxqU35Rld8v487/giphy.gif" alt="Coding GIF" width="30"/>  *Thanks for visiting my profile. Check out my repositories!*
+</p>
