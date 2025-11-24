@@ -75,5 +75,7 @@ Here is a summary of the technologies and tools I work with:
 * **LinkedIn**: www.linkedin.com/in/carlos-alvarado-859a33365
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8BxqU35Rld8v487/giphy.gif" alt="Coding GIF" width="30"/>  *Thanks for visiting my profile. Check out my repositories!*
+  <img src="https://c.tenor.com/92MplgQwb80AAAAC/tenor.gif" alt="Cat coding GIF" width="80"/>
+  <br/>
+  *Thanks for visiting my profile. Check out my repositories!*
 </p>
