@@ -139,7 +139,7 @@ I am an enthusiastic **Software Engineering student** (23) with a strong foundat
 <!------------------------- MUSIQUITA ------------------------>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-<p>🎵 My music world 🎵</p>
+<p>🎵Lo Que Ha Estado Sonando🎵</p>
 
 ![](https://spotify-recently-played-readme.vercel.app/api?user=12154863792&count=5)
 
