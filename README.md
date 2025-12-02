@@ -6,22 +6,14 @@
         <img src="https://c.tenor.com/92MplgQwb80AAAAC/tenor.gif" alt="Cat coding GIF" width="80">
     </h1>
 </div>
-<div align="center" style="width: 100%; max-width: 100%;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&lines=Software+Engineer+Student;Full-Stack+Developer;Backend+Specialist;Always+learning+new+things" alt="Typing SVG" style="width: 100%; max-width: 100%; height: 50px;">
-</div>
-
-## <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ4NDcxM21iZjMzY3JzeDVyYjE3YzZmeGd4Y2pqM3I5b3J1cm1sMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0v4Iiyl36ZH0ogytI/giphy.gif" width=30px></picture> About me
-
-<picture>
-    <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 225px>
-</picture>
-
+ <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ4NDcxM21iZjMzY3JzeDVyYjE3YzZmeGd4Y2pqM3I5b3J1cm1sMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0v4Iiyl36ZH0ogytI/giphy.gif" width=30px></picture> About me
+<h3>
 I am an enthusiastic **Software Engineering student** (23) with a strong foundation in **Full-Stack Development**, currently specializing in building robust and scalable systems through **Backend development** and database architecture.
 
 * I am currently in the **8th semester of Software Engineering** at the Universidad Técnica de Ambato.
 * I possess skills across the entire stack, but my current focus is on designing and implementing efficient, reliable APIs, services, and complex database structures.
 * My current focus is on **Backend Development (Node.js/NestJS/Java)**, architecture design, and performance optimization.
-
+</h3>
 <br>
 
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d25nMzdtOXNxcjRuYjZvbWJtZDc5d2VweGU4ZG45MmlnMGExYTZqbiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/q9jwUVBtAshCCrLxkL/giphy.gif" width = 35px></picture> Skills & Tools
@@ -122,7 +114,6 @@ I am an enthusiastic **Software Engineering student** (23) with a strong foundat
 
 <br>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
 <p>📫 Let's Connect! 📧</p>
 <p>
@@ -135,13 +126,9 @@ I am an enthusiastic **Software Engineering student** (23) with a strong foundat
   *Thanks for visiting my profile. Check out my repositories!*
 </p>
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!------------------------- MUSIQUITA ------------------------>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
-<p>🎵Lo Que Ha Estado Sonando🎵</p>
-
+<p>Lo Que Ha Estado Sonando</p>
+    
 ![](https://spotify-recently-played-readme.vercel.app/api?user=12154863792&count=5)
 
 </div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
