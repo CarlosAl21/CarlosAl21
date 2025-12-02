@@ -7,13 +7,15 @@
     </h1>
 </div>
  <picture><img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJ4NDcxM21iZjMzY3JzeDVyYjE3YzZmeGd4Y2pqM3I5b3J1cm1sMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0v4Iiyl36ZH0ogytI/giphy.gif" width=30px></picture> About me
-<h3>
-I am an enthusiastic **Software Engineering student** (23) with a strong foundation in **Full-Stack Development**, currently specializing in building robust and scalable systems through **Backend development** and database architecture.
+<p >
+    I am an enthusiastic <strong>Software Engineering student</strong> (23) with a strong foundation in <strong>Full-Stack Development</strong>, currently specializing in building robust and scalable systems through <strong>Backend development</strong> and database architecture.
+</p>
 
-* I am currently in the **8th semester of Software Engineering** at the Universidad Técnica de Ambato.
-* I possess skills across the entire stack, but my current focus is on designing and implementing efficient, reliable APIs, services, and complex database structures.
-* My current focus is on **Backend Development (Node.js/NestJS/Java)**, architecture design, and performance optimization.
-</h3>
+<ul>
+    <li>I am currently in the <strong>8th semester of Software Engineering</strong> at the Universidad Técnica de Ambato.</li>
+    <li>I possess skills across the entire stack, but my current focus is on designing and implementing efficient, reliable APIs, services, and complex database structures.</li>
+    <li>My current focus is on <strong>Backend Development (Node.js / NestJS / Java)</strong>, architecture design, and performance optimization.</li>
+</ul>
 <br>
 
 ## <picture><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d25nMzdtOXNxcjRuYjZvbWJtZDc5d2VweGU4ZG45MmlnMGExYTZqbiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/q9jwUVBtAshCCrLxkL/giphy.gif" width = 35px></picture> Skills & Tools
@@ -117,15 +119,16 @@ I am an enthusiastic **Software Engineering student** (23) with a strong foundat
 <div align="center">
 <p>📫 Let's Connect! 📧</p>
 <p>
-    **LinkedIn**: <a href="www.linkedin.com/in/carlos-alvarado-859a33365">www.linkedin.com/in/carlos-alvarado-859a33365</a>
+    <strong>LinkedIn</strong>: <a href="www.linkedin.com/in/carlos-alvarado-859a33365">www.linkedin.com/in/carlos-alvarado-859a33365</a>
 </p>
 
 <p align="center">
   <img src="https://c.tenor.com/92MplgQwb80AAAAC/tenor.gif" alt="Cat coding GIF" width="80"/>
   <br/>
-  *Thanks for visiting my profile. Check out my repositories!*
+  <strong>Thanks for visiting my profile. Check out my repositories!</strong>
 </p>
 </div>
+
 <div align="center">
 <p>Lo Que Ha Estado Sonando</p>
     
